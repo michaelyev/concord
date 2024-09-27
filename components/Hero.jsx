@@ -9,7 +9,7 @@ export const Hero = () => {
         </h1>
 
         <p className="mt-6 max-w-2xl text-xl font-semibold text-[#404040]">
-          At Concord, we make every move stress-free and efficient. Whether it's
+          At Concord, we make every move stress-free and efficient. Whether it&apos;s
           residential or commercial, we offer tailored moving solutions designed
           to meet your needs. Experience hassle-free moving with Concord.
         </p>
