@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className="mt-6 max-w-2xl text-xl font-semibold text-[#404040]">
           At Concord, we make every move stress-free and efficient. Whether it&apos;s
           residential or commercial, we offer tailored moving solutions designed
-          to meet your needs. Experience hassle-free moving with Concord.
+          to meet your needs. Experience hassle-free moving with Concord
         </p>
       </div>
       <div className=" mb-20 mt-44 hidden w-full flex-col rounded-3xl lg:mt-12 lg:inline-block lg:w-3/6">
